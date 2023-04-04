@@ -1,0 +1,27 @@
+body {
+  background: #bdbdbd;
+  margin: 0;
+}
+header {
+  background: white;
+  padding: 10px;
+}
+header h1 {
+  margin: 0;
+}
+div.post {
+  background: white;
+}
+div.post img {
+  width: 100%;
+}
+
+div.post h2,
+div.post p {
+  padding: 10px;
+}
+
+div.container {
+  width: 600px;
+  margin: auto;
+}
